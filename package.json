@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "auth": "^0.0.9",
+    "axios": "^1.6.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-oauth2-jwt-bearer": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "on-finished": "^2.4.1",
+    "path": "^0.12.7",
+    "querystring": "^0.2.1",
+    "uuid": "^9.0.1"
+  }
+}
